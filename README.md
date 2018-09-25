@@ -21,4 +21,4 @@ and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
 ## Run
-On the interactive shell, type Identicon.main(test)
+On the interactive shell, type `Identicon.main("test")`
