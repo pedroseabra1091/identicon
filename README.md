@@ -1,6 +1,7 @@
 # Identicon
 
-**TODO: Add description**
+
+Identicon generator built with Elixir.
 
 ## Installation
 
@@ -19,3 +20,5 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
+## Run
+On the interactive shell, type Identicon.main(test)
