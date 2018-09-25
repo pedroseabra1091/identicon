@@ -1,7 +1,10 @@
 # Identicon
 
+![alt text](https://raw.githubusercontent.com/pedroseabra1091/identicon/master/test.png)
+
 
 Identicon generator built with Elixir.
+
 
 ## Installation
 
